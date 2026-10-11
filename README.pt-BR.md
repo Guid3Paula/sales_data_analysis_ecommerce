@@ -111,7 +111,7 @@ Como o conjunto de dados é sintético e gerado aleatoriamente, esses resultados
 
 O ranking apresenta os produtos com maior volume de vendas no conjunto de dados sintético. Network Switch apresentou o maior volume, seguido de perto por Motherboard e Business Laptop.
 
-![Top 10 Produtos Mais Vendidos](images/top_10_products.png)
+![Top 10 Produtos Mais Vendidos](images/top10_products_quantity_sold.png)
 
 ### Faturamento Mensal
 
