@@ -152,3 +152,78 @@ sales_data_analysis_ecommerce/
 ├── README.md
 ├── README.pt-BR.md
 └── requirements.txt
+
+```
+
+---
+
+## Como Executar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/Guid3Paula/sales_data_analysis_ecommerce.git
+```
+
+Acesse a pasta do projeto:
+
+```bash
+cd sales_data_analysis_ecommerce
+```
+
+Crie um ambiente virtual:
+
+```bash
+python -m venv .venv
+```
+
+Ative o ambiente no Windows:
+
+```bash
+.venv\Scripts\Activate.ps1
+```
+
+Instale as bibliotecas necessárias:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Abra o notebook:
+
+```text
+notebooks/sales_analysis.ipynb
+```
+
+Depois selecione o ambiente virtual do projeto como kernel do Jupyter.
+
+---
+
+## Próximas Evoluções
+
+Possíveis evoluções futuras incluem:
+
+- segmentação de clientes;
+- análise de rentabilidade;
+- análise de comportamento de compra;
+- previsão de vendas;
+- dashboards interativos;
+- inclusão de novos KPIs comerciais.
+
+---
+
+## Conclusão
+
+Este projeto demonstra como dados transacionais podem ser transformados em informações relevantes para o negócio por meio de um fluxo analítico completo utilizando Python.
+
+Embora o conjunto de dados seja totalmente sintético, o projeto representa um cenário de negócio realista e demonstra como a análise de dados pode apoiar decisões relacionadas à gestão de estoque, planejamento comercial, priorização geográfica e portfólio de produtos.
+
+O fluxo desenvolvido inclui geração de dados, exploração, limpeza, engenharia de atributos, agregações, visualizações e interpretação dos resultados.
+
+---
+
+## Aviso
+
+Este projeto foi desenvolvido para fins educacionais e de portfólio.
+
+O conjunto de dados é inteiramente sintético e não contém informações reais de clientes, empresas ou operações comerciais.

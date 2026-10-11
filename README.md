@@ -151,3 +151,78 @@ sales_data_analysis_ecommerce/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+
+```
+
+---
+
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Guid3Paula/sales_data_analysis_ecommerce.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd sales_data_analysis_ecommerce
+```
+
+Create a virtual environment:
+
+```bash
+python -m venv .venv
+```
+
+Activate the environment on Windows:
+
+```bash
+.venv\Scripts\Activate.ps1
+```
+
+Install the required libraries:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Open the notebook:
+
+```text
+notebooks/sales_analysis.ipynb
+```
+
+Then select the project virtual environment as the Jupyter kernel.
+
+---
+
+## Future Improvements
+
+Possible future developments include:
+
+- customer segmentation;
+- profitability analysis;
+- purchasing behavior analysis;
+- sales forecasting;
+- interactive dashboards;
+- additional commercial KPIs.
+
+---
+
+## Conclusion
+
+This project demonstrates how transactional data can be transformed into meaningful business information through a complete analytical workflow using Python.
+
+Although the dataset is entirely synthetic, the project reflects a realistic business scenario and demonstrates how data analysis can support inventory management, commercial planning, geographic prioritization, and product portfolio decisions.
+
+The workflow developed in this project includes data generation, exploration, cleaning, feature engineering, aggregation, visualization, and interpretation of business results.
+
+---
+
+## Disclaimer
+
+This project was developed for educational and portfolio purposes.
+
+The dataset is entirely synthetic and does not contain real customer, company, or commercial information.
