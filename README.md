@@ -111,7 +111,7 @@ Because the dataset is synthetic and randomly generated, these findings should b
 
 The product ranking highlights the items with the highest sales volume in the synthetic dataset. Network Switch recorded the highest volume, followed closely by Motherboard and Business Laptop.
 
-![Top 10 Best-Selling Products](images/top_10_products.png)
+![Top 10 Best-Selling Products](images/top_10_products_quantity_sold.png)
 
 ### Monthly Revenue
 
