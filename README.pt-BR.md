@@ -1,4 +1,5 @@
 # Análise de Dados de Vendas com Python
+[English](README.md) | [Português](README.pt-BR.md)
 
 ## Visão Geral
 
@@ -139,7 +140,7 @@ A categoria Electronics apresentou a maior contribuição para o faturamento, al
 sales_data_analysis_ecommerce/
 │
 ├── images/
-│   ├── top_10_products.png
+│   ├── top10_products_quantity_sold.png
 │   ├── monthly_revenue.png
 │   ├── revenue_by_state.png
 │   └── revenue_by_category.png

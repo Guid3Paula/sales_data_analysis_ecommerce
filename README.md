@@ -1,4 +1,5 @@
 # Sales Data Analysis with Python
+[English](README.md) | [Português](README.pt-BR.md)
 
 ## Overview
 
@@ -139,7 +140,7 @@ Electronics represented the largest revenue contribution by a significant margin
 sales_data_analysis_ecommerce/
 │
 ├── images/
-│   ├── top_10_products.png
+│   ├── top10_products_quantity_sold.png
 │   ├── monthly_revenue.png
 │   ├── revenue_by_state.png
 │   └── revenue_by_category.png
